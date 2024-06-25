@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rect-weather-app/static/css/main.4c5e955d.css",
+    "main.js": "/rect-weather-app/static/js/main.d662c4d6.js",
+    "static/js/453.15c8c274.chunk.js": "/rect-weather-app/static/js/453.15c8c274.chunk.js",
+    "index.html": "/rect-weather-app/index.html",
+    "main.4c5e955d.css.map": "/rect-weather-app/static/css/main.4c5e955d.css.map",
+    "main.d662c4d6.js.map": "/rect-weather-app/static/js/main.d662c4d6.js.map",
+    "453.15c8c274.chunk.js.map": "/rect-weather-app/static/js/453.15c8c274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5e955d.css",
+    "static/js/main.d662c4d6.js"
+  ]
+}
