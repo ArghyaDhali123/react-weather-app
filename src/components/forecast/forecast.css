@@ -1,0 +1,60 @@
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    text-transform: uppercase; 
+}
+
+.daily-item {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin: 8px 0;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.icon-small {
+    width: 36px;
+    height: auto;
+    margin-right: 12px;
+    border-radius: 50%; 
+}
+
+.day {
+    color: #555;
+    font-weight: bold;
+    flex: 1 1;
+}
+
+.description {
+    text-align: right;
+    color: #3f3838;
+    font-size: 13px;
+}
+
+.min-max {
+    color: #999;
+}
+
+.daily-details-grid {
+    grid-row-gap: 12px;
+    grid-column-gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 15px;
+}
+
+.daily-details-grid-item {
+    align-items: center;
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+    font-size: 13px;
+    color: #666;
+    border-bottom: 1px solid #ddd; 
+}
